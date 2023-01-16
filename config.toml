@@ -1,5 +1,0 @@
-baseURL = 'https://dengyuncheng27.github.io/'
-languageCode = 'zh-cn'
-title = 'hugo blog site'
-theme = 'stack'
-publishDir = 'docs'
