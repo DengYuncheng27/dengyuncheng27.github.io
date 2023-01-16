@@ -1,5 +1,5 @@
 ---
-title: 关于
+title: about
 menu:
     main: 
         weight: -90
@@ -7,4 +7,4 @@ menu:
             icon: user
 ---
 
-This is a test page for i18n support.
+Hello，小菜鸡本鸡.
