@@ -63,7 +63,15 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: utterances
+        utterances:
+            repo: DengYuncheng27/comments-repo
+            # issueTerm: 必填项，issue标题的切分规则，可写 pathname title url
+            issueTerm: pathname 
+            theme: github-light
+            # label 可选项，提交的issue的默认标签，不填则不打标签。
+            label:
+
 
         disqusjs:
             shortname:
@@ -189,7 +197,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/DengYuncheng27
           params:
               icon: brand-github
 
