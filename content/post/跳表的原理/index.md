@@ -1,8 +1,8 @@
 ---
-author = "Bubble"
-title: "跳表的基本原理"
-description: "跳表的原理"
-date: "2022-3-14"
+author: Bubble
+title: 跳表的基本原理
+description: 跳表的原理
+date: 2022-03-14
 slug: 
 image: 1.jpg
 categories:
