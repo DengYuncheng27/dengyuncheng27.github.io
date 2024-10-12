@@ -2,15 +2,12 @@ baseurl: https://dengyuncheng27.github.io/
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
-title: Example Site
 publishDir: public
-
+title: 无名小站
 languages:
     zh-cn:
-        languageName: 中文
-        title: 小站
-        description: 演示说明
-        weight: 1
+        params:
+            description: 演示说明
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -25,11 +22,10 @@ DefaultContentLanguage: zh-cn
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage: true
-
 permalinks:
     post: /p/:slug/
     page: /:slug/
-
+source_dir: content
 params:
     mainSections:
         - post

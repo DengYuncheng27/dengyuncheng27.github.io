@@ -1,7 +1,7 @@
 ---
 title: 【Hugo】 Writing
 description: subTitle
-date: 2023-1-16
+date: 2023-01-16
 slug: writing
 image: screen-image-city-209a8285.jpg
 categories:
