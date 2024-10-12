@@ -1,10 +1,12 @@
 .container {
     margin-left: auto;
     margin-right: auto;
+    width: 95%;  // 添加这行，使容器宽度为视口宽度的95%
 
     .left-sidebar {
         order: -3;
         max-width: var(--left-sidebar-max-width);
+        
     }
 
     .right-sidebar {
@@ -19,19 +21,19 @@
 
     &.extended {
         @include respond(md) {
-            max-width: 1024px;
+            max-width: 95%;  // 将1024px改为95%
             --left-sidebar-max-width: 25%;
             --right-sidebar-max-width: 30%;
         }
 
         @include respond(lg) {
-            max-width: 1280px;
+            max-width: 95%;  // 将1280px改为95%
             --left-sidebar-max-width: 20%;
             --right-sidebar-max-width: 30%;
         }
 
         @include respond(xl) {
-            max-width: 1536px;
+            max-width: 95%;  // 将1536px改为95%
             --left-sidebar-max-width: 15%;
             --right-sidebar-max-width: 25%;
         }
@@ -40,16 +42,16 @@
     &.compact {
         @include respond(md) {
             --left-sidebar-max-width: 25%;
-            max-width: 768px;
+            max-width: 95%;  // 将768px改为95%
         }
 
         @include respond(lg) {
-            max-width: 1024px;
+            max-width: 95%;  // 将1024px改为95%
             --left-sidebar-max-width: 20%;
         }
 
         @include respond(xl) {
-            max-width: 1280px;
+            max-width: 95%;  // 将1280px改为95%
         }
     }
 }
@@ -94,7 +96,6 @@ main.main {
     padding: 0 15px;
     gap: var(--section-separation);
     padding-top: var(--main-top-padding);
-    
     @include respond(md) {
         padding: 0 20px;
     }

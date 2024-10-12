@@ -6,11 +6,15 @@ publishDir: public
 title: 无名小站
 languages:
     zh-cn:
+        languageCode: zh-cn
         params:
             description: 演示说明
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
+
+#
+enableEmoji: true
 
 # GA Tracking ID
 googleAnalytics:
@@ -111,8 +115,6 @@ params:
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-    main: []
-
     social:
         - identifier: github
           name: GitHub
