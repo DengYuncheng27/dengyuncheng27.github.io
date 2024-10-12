@@ -22,6 +22,14 @@ class="gallery-image"
 data-flex-grow="167"
 data-flex-basis="402px"
 >&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/MpYy6wwqxoo"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
 &lt;p>不知道为什么，这个文件索引不到。
 很奇怪，工作流总是执行的不如预期。&lt;/p></description></item><item><title>uwp应用无法联网</title><link>https://dengyuncheng27.github.io/p/uwp%E5%BA%94%E7%94%A8%E6%97%A0%E6%B3%95%E8%81%94%E7%BD%91/</link><pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate><guid>https://dengyuncheng27.github.io/p/uwp%E5%BA%94%E7%94%A8%E6%97%A0%E6%B3%95%E8%81%94%E7%BD%91/</guid><description>&lt;img src="https://dengyuncheng27.github.io/p/uwp%E5%BA%94%E7%94%A8%E6%97%A0%E6%B3%95%E8%81%94%E7%BD%91/1.jpg" alt="Featured image of post uwp应用无法联网" />&lt;h1 id="问题描述">问题描述
 &lt;/h1>&lt;p>clash开着系统代理的情况下，微软自带的应用基本都无法联网，比如下方的TODO应用。&lt;/p>

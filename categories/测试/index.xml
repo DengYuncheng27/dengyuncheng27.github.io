@@ -22,5 +22,13 @@ class="gallery-image"
 data-flex-grow="167"
 data-flex-basis="402px"
 >&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/MpYy6wwqxoo"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
 &lt;p>不知道为什么，这个文件索引不到。
 很奇怪，工作流总是执行的不如预期。&lt;/p></description></item></channel></rss>
