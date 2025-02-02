@@ -105,5 +105,4 @@ alt="img"
 (2) 每一层都是一个有序的链表，默认是升序 ；
 (3) 最底层(Level 1)的链表包含所有元素；
 (4) 如果一个元素出现在Level i 的链表中，则它在Level i 之下的链表也都会出现；
-(5) 每个节点包含两个指针，一个指向同一链表中的下一个元素，一个指向下面一层的元素。&lt;/p>
-&lt;/blockquote></description></item></channel></rss>
+(5) 每个节点包含两个指针，一个指向同一链表中的下一个元素，一个指向下面一层的元素。&lt;/p>&lt;/blockquote></description></item></channel></rss>

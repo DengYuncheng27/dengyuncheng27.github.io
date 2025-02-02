@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>无名小站</title><link>https://dengyuncheng27.github.io/</link><description>Recent content on 无名小站</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Mon, 11 Nov 2024 14:56:52 +0800</lastBuildDate><atom:link href="https://dengyuncheng27.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Python Env</title><link>https://dengyuncheng27.github.io/p/python-env/</link><pubDate>Mon, 11 Nov 2024 14:56:52 +0800</pubDate><guid>https://dengyuncheng27.github.io/p/python-env/</guid><description>&lt;blockquote>
 &lt;p>前言
 python 多环境管理
-讨论 conda、vscode code runner插件配置、 vscode output 中文乱码、 python venv、 python virturevenv 、 pdm等包管理器&lt;/p>
-&lt;/blockquote></description></item><item><title>【Hugo】 TestDocs</title><link>https://dengyuncheng27.github.io/p/hugo-testdocs/</link><pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate><guid>https://dengyuncheng27.github.io/p/hugo-testdocs/</guid><description>&lt;img src="https://dengyuncheng27.github.io/p/hugo-testdocs/screen-image-city-209a8285.jpg" alt="Featured image of post 【Hugo】 TestDocs" />&lt;h2 id="test">test
+讨论 conda、vscode code runner插件配置、 vscode output 中文乱码、 python venv、 python virturevenv 、 pdm等包管理器&lt;/p>&lt;/blockquote></description></item><item><title>【Hugo】 TestDocs</title><link>https://dengyuncheng27.github.io/p/hugo-testdocs/</link><pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate><guid>https://dengyuncheng27.github.io/p/hugo-testdocs/</guid><description>&lt;img src="https://dengyuncheng27.github.io/p/hugo-testdocs/screen-image-city-209a8285.jpg" alt="Featured image of post 【Hugo】 TestDocs" />&lt;h2 id="test">test
 &lt;/h2></description></item><item><title>【Hugo】 Writing</title><link>https://dengyuncheng27.github.io/p/writing/</link><pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate><guid>https://dengyuncheng27.github.io/p/writing/</guid><description>&lt;img src="https://dengyuncheng27.github.io/p/writing/screen-image-city-209a8285.jpg" alt="Featured image of post 【Hugo】 Writing" />&lt;h2 id="测试">测试
 &lt;/h2>&lt;p>&lt;img src="https://dengyuncheng27.github.io/p/writing/screen-image-city-209a8285.jpg"
 width="1280"
@@ -46,8 +45,7 @@ alt=" "
 &lt;h1 id="问题原因">问题原因
 &lt;/h1>&lt;p>原因搜了一下，不是做android开发的，不太理解。&lt;/p>
 &lt;blockquote>
-&lt;p>Win10 所有 UWP 应用均运行在被称为 App Container 的虚拟沙箱环境中，App Container 可以保证应用安全性，但同时也阻止了网络流量发送到本机（即 loopback）， 使大部分网络抓包调试工具无法对 UWP 应用进行流量分析。同样的，该机制也阻止了 UWP 应用访问 localhost，即使你在系统设置中启用了代理，也无法令 UWP 应用访问本地代理服务器。&lt;/p>
-&lt;/blockquote>
+&lt;p>Win10 所有 UWP 应用均运行在被称为 App Container 的虚拟沙箱环境中，App Container 可以保证应用安全性，但同时也阻止了网络流量发送到本机（即 loopback）， 使大部分网络抓包调试工具无法对 UWP 应用进行流量分析。同样的，该机制也阻止了 UWP 应用访问 localhost，即使你在系统设置中启用了代理，也无法令 UWP 应用访问本地代理服务器。&lt;/p>&lt;/blockquote>
 &lt;h1 id="问题解决">问题解决
 &lt;/h1>&lt;p>&lt;a class="link" href="https://www.telerik.com/fiddler" target="_blank" rel="noopener"
 >Fiddler&lt;/a> 一个抓包工具。&lt;/p>
@@ -163,8 +161,7 @@ alt="img"
 (2) 每一层都是一个有序的链表，默认是升序 ；
 (3) 最底层(Level 1)的链表包含所有元素；
 (4) 如果一个元素出现在Level i 的链表中，则它在Level i 之下的链表也都会出现；
-(5) 每个节点包含两个指针，一个指向同一链表中的下一个元素，一个指向下面一层的元素。&lt;/p>
-&lt;/blockquote></description></item><item><title>Archives</title><link>https://dengyuncheng27.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://dengyuncheng27.github.io/archives/</guid><description/></item><item><title>Math Typesetting</title><link>https://dengyuncheng27.github.io/p/math-typesetting/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>https://dengyuncheng27.github.io/p/math-typesetting/</guid><description>&lt;p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p>
+(5) 每个节点包含两个指针，一个指向同一链表中的下一个元素，一个指向下面一层的元素。&lt;/p>&lt;/blockquote></description></item><item><title>Archives</title><link>https://dengyuncheng27.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://dengyuncheng27.github.io/archives/</guid><description/></item><item><title>Math Typesetting</title><link>https://dengyuncheng27.github.io/p/math-typesetting/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>https://dengyuncheng27.github.io/p/math-typesetting/</guid><description>&lt;p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p>
 &lt;p>In this example we will be using &lt;a class="link" href="https://katex.org/" target="_blank" rel="noopener"
 >KaTeX&lt;/a>&lt;/p>
 &lt;ul>
